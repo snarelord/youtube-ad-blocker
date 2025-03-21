@@ -1,1 +1,1 @@
-# chrome-ad-blocker
+# youtube-ad-blocker
